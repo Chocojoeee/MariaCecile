@@ -1,0 +1,85 @@
+body
+{
+  margin: 0;
+text-align: center;
+font-family: 'Merriweather Sans', serif;
+}
+
+h1
+{
+  position:relative;
+  font-family: 'Meriweather Sans', serif;
+}
+
+.pro
+{
+text-decoration: underline;
+}
+
+.top-container
+{
+  position: relative;
+  background-color: violet;
+}
+
+.top-cloud
+{
+  position: relative;
+  margin-top: 31px;
+  top: 31px;
+  left: 200px;
+}
+
+.bottom-cloud
+{
+  position: absolute;
+}
+
+.middle-container
+{
+  position: relative;
+  background-color: violet;
+}
+
+.bottom-container
+{
+  position: relative;
+  background-color: violet;
+}
+
+.btn
+{
+
+font-family: 'Merriweather Sans', serif;
+background-image: -webkit-linear-gradient(top, #8b26ff, #70f5ff);
+background-image: -moz-linear-gradient(top, #8b26ff, #70f5ff);
+background-image: -ms-linear-gradient(top, #8b26ff, #70f5ff);
+background-image: -o-linear-gradient(top, #8b26ff, #70f5ff);
+background-image: linear-gradient(top bottom, #8b26ff, #70f5ff);
+color: pink;
+font-size: 15px;
+padding: 10px 20px 10px 20px;
+text-decoration: none;
+}
+
+.first-link
+{
+
+font-family: 'Merriweather Sans', serif;
+color: pink;
+background-color: Red;
+ font-size: 15px;
+ padding: 10px 20px 10px 20px;
+ text-decoration: none;
+}
+
+.second-link
+{
+
+font-family: 'Merriweather Sans', serif;
+color: pink;
+background-color: Red;
+ font-size: 15px;
+ padding: 10px 20px 10px 20px;
+ text-decoration: none;
+}
